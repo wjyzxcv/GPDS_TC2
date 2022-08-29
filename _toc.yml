@@ -1,0 +1,21 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: markdown/intro
+chapters:
+- file: markdown/lesson_1
+  sections:
+  - file: markdown/lesson_1_1
+  - file: markdown/lesson_1_2
+  - file: markdown/lesson_1_3
+  - file: markdown/lesson_1_4
+  - file: markdown/lesson_1_5
+  - file: markdown/lesson_1_6
+- file: markdown/lesson_2
+  sections:
+  - file: markdown/lesson_2_1
+  - file: markdown/lesson_2_2
+  - file: markdown/lesson_2_3
+  - file: markdown/lesson_2_4
+  - file: markdown/lesson_2_5
